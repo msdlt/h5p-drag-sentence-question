@@ -1,4 +1,4 @@
-export default class HelloWorld extends H5P.EventDispatcher {
+export default class DragSentenceQuestion extends H5P.EventDispatcher {
   /**
    * @constructor
    *

@@ -1,5 +1,5 @@
 {
-  "name": "h5p-boilerplate",
+  "name": "h5p-drag-sentence-question",
   "version": "1.0.0",
   "description": "Example H5P Content Type for getting started",
   "private": true,
@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/h5p/h5p-boilerplate.git"
+    "url": "git+https://github.com/msdlt/h5p-drag-sentence-question.git"
   },
   "keywords": [
     "h5p",
     "library"
   ],
-  "author": "Joubel",
+  "author": "theotherdy",
   "license": "MIT",
   "devDependencies": {
     "ava": "^0.19.1",
